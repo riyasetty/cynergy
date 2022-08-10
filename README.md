@@ -2,7 +2,7 @@
 
 ## Description
 
-_
+Cynergy is a social media application for college students to connect and work on personal projects together. Students can create accounts, post their own projects, view other students' projects, filter by values including Tech Stack, Team Size, and Project Duration. The site was built using a React.js frontend, Node.js server, and MongoDB database.
 
 ## Team Members
 
